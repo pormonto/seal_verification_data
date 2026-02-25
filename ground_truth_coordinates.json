@@ -3102,29 +3102,6 @@
   "lead_time": 6.585
 },
 {
-  "image": "\/data\/upload\/1\/5aca1297-ncmd-12023mj00126-3152023-1.png",
-  "id": 173,
-  "label": [
-    {
-      "x": 72.25435051075733,
-      "y": 2.3512231599570317,
-      "width": 23.356946639466283,
-      "height": 17.83862788750005,
-      "rotation": 0,
-      "rectanglelabels": [
-        "Seal"
-      ],
-      "original_width": 2550,
-      "original_height": 3301
-    }
-  ],
-  "annotator": 1,
-  "annotation_id": 199,
-  "created_at": "2026-02-21T20:56:48.715550Z",
-  "updated_at": "2026-02-21T20:56:48.715580Z",
-  "lead_time": 33.269
-},
-{
   "image": "\/data\/upload\/1\/14e8d0a2-ncmd-12023mj00127-3152023-1.png",
   "id": 174,
   "annotator": 1,
@@ -3623,69 +3600,5 @@
   "created_at": "2026-01-18T05:31:22.903461Z",
   "updated_at": "2026-01-18T05:31:22.903501Z",
   "lead_time": 7.712
-},
-{
-  "image": "\/data\/upload\/1\/8014aaaa-ndc-322mj00432-080222-1.png",
-  "id": 200,
-  "annotator": 1,
-  "annotation_id": 200,
-  "created_at": "2026-02-21T22:57:31.274577Z",
-  "updated_at": "2026-02-21T22:57:31.274597Z",
-  "lead_time": 3.927
-},
-{
-  "image": "\/data\/upload\/1\/aa987022-ndd-122mj00304crh-052622-1.png",
-  "id": 201,
-  "label": [
-    {
-      "x": 23.249121856046063,
-      "y": 72.3330386687757,
-      "width": 11.628162917883062,
-      "height": 9.043165999834697,
-      "rotation": 0,
-      "rectanglelabels": [
-        "Seal"
-      ],
-      "original_width": 2550,
-      "original_height": 3301
-    }
-  ],
-  "annotator": 1,
-  "annotation_id": 201,
-  "created_at": "2026-02-21T22:58:00.595723Z",
-  "updated_at": "2026-02-21T22:58:00.595746Z",
-  "lead_time": 27.598
-},
-{
-  "image": "\/data\/upload\/1\/410f3f04-nddc-122mj00377CRH_070522-1.png",
-  "id": 202,
-  "annotator": 1,
-  "annotation_id": 202,
-  "created_at": "2026-02-21T22:58:03.898914Z",
-  "updated_at": "2026-02-21T22:58:03.898937Z",
-  "lead_time": 2.853
-},
-{
-  "image": "\/data\/upload\/1\/9eabab72-nddc-123mj00591CRH-103123-1.png",
-  "id": 203,
-  "label": [
-    {
-      "x": 24.726047509794423,
-      "y": 72.04203757239749,
-      "width": 10.332438111640814,
-      "height": 7.999634287716721,
-      "rotation": 0,
-      "rectanglelabels": [
-        "Seal"
-      ],
-      "original_width": 2550,
-      "original_height": 3301
-    }
-  ],
-  "annotator": 1,
-  "annotation_id": 203,
-  "created_at": "2026-02-21T22:58:23.739495Z",
-  "updated_at": "2026-02-21T22:58:23.739516Z",
-  "lead_time": 19.431
 }
 ]
